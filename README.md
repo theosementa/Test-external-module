@@ -1,3 +1,3 @@
 # Test-external-module
 
-update from external
+update from module
